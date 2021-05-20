@@ -8,7 +8,7 @@
  * How to know whether this variable was hoisted or not?
  * The value for the variable "b" was attached to the Global object.
  * Variables "a", and "b" and "c" are stored with undefined value due to hoisting but
- * variables declared using "let" and "const" are stored in a different memory space
+ * variables declared using "let" and "const" are stored in a separate memory space
  * than Global.
  *
  * Temporal Dead Zone: Temporal Dead Zone is a time between the "let" variable was hoisted
